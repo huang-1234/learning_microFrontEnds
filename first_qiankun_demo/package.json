@@ -1,0 +1,11 @@
+{
+  "name": "first_qiankun_demo",
+  "version": "1.0.0",
+  "description": "my first qiankun demo",
+  "main": "index.js",
+  "author": "hsq",
+  "license": "MIT",
+  "dependencies": {
+    "qiankun": "^2.4.2"
+  }
+}
